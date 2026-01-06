@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛されたい…愛してる?with AZU（feat. AZU）",
+  "base_artist": "K.J.",
+  "createdAt": "2026-01-06T16:52:55.129450Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛されたい…愛してる?with AZU",
+      "artist": "K.J.",
+      "has_synced": false,
+      "path": "select/pl_01_愛されたい...愛してる_with_AZU_K.J..txt"
+    }
+  ]
+}
